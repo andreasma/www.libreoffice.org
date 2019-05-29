@@ -12,6 +12,7 @@ buildout-cache/
 develop-eggs/
 parts/
 var/
+src/
 htmlcov/
 .coverage
 *.log
